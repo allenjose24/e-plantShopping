@@ -5,7 +5,6 @@ A simple e-commerce web application for browsing and purchasing plants online. B
 ## Table of Contents
 
 - [About](#about)
-- [Directory Structure](#directory-structure)
 - [Working Principle](#working-principle)
 - [Installation](#installation)
 - [Usage](#usage)
